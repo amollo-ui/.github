@@ -1,9 +1,15 @@
-<p align="center">
+<p align="center" style="margin-bottom:155px;">
   <a href="https://github.com/amollo-ui">
-    <img width="200" src="https://user-images.githubusercontent.com/48572511/135682710-ac89e1c8-d1a7-476e-a81f-a6925790949e.png">
+    <img width="400" src="https://i.ibb.co/yY7M4DK/amollo.png" alt="colors-TEXTbig" border="0">
   </a>
+  </br>
 </p>
 
-<h1 align="center">Amollo UI</h1>
+---------------------
+
+<div>
+  <br />
+  <br />
+</div>
 
 ![](https://svgshare.com/i/ak9.svg)
